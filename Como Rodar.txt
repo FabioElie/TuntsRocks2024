@@ -1,0 +1,2 @@
+Abra o CMD do Windows e Digite 
+.\gradlew run

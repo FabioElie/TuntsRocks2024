@@ -1,0 +1,14 @@
+
+L
+java:S3740S"/Provide the parametrized type for this generic.(ÞäÀ±8ò†ˆ¯Ø1
+m	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€õ¸§8ó†ˆ¯Ø1
+m	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‘ªæ8ó†ˆ¯Ø1
+0
+java:S1220""Move this file to a named package.
+c
+java:S1075!"ARefactor your code to get this URI from a customizable parameter.( “œ¾ùÿÿÿÿ8É‡ˆ¯Ø1
+L	java:S106P"+Replace this use of System.out by a logger.(´‡“Œøÿÿÿÿ8ï‡ˆ¯Ø1
+L	java:S106R"+Replace this use of System.out by a logger.(­íŒÞùÿÿÿÿ8ð‡ˆ¯Ø1
+s
+java:S3457U"Q%n should be used in place of \n to produce the platform-specific line separator.(ýÒ¢­ýÿÿÿÿ8ò‡ˆ¯Ø1
+L	java:S106U"+Replace this use of System.out by a logger.(ýÒ¢­ýÿÿÿÿ8ó‡ˆ¯Ø1
