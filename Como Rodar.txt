@@ -1,2 +1,11 @@
-Abra o CMD do Windows e Digite 
-.\gradlew run
+
+Abra o CMD ( Prompt de Comando ) e vá para a pasta principal do projeto utilizando o comando cd
+Caso tenha salvado no Desktop de seu usuario, ficará algo parecido com o que está abaixo.
+
+cd C:\Users\SeuUsuario\Desktop\TuntsRocks2024
+
+
+
+Após ir para a pasta correta, digite o seguinte comando
+
+gradlew run
