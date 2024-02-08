@@ -1,13 +1,13 @@
 
-r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğï¶ıÿÿÿÿ8õöÜ½Ø1
-m	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‘ªæ8õöÜ½Ø1
+r	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğï¶ıÿÿÿÿ8çŞŞÌØ1
+m	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‘ªæ8çŞŞÌØ1
 7
-java:S1220""Move this file to a named package.8ööÜ½Ø1
-b
-java:S2184m"@Cast one of the operands of this integer division to a "double".(ßÈ°‹ıÿÿÿÿ8ööÜ½Ø1
+java:S1220""Move this file to a named package.8èŞŞÌØ1
 c
-java:S1075 "ARefactor your code to get this URI from a customizable parameter.( “œ¾ùÿÿÿÿ8Ä÷Ü½Ø1
-F	java:S106B"+Replace this use of System.out by a logger.(§¬Ï~8É÷Ü½Ø1
-L	java:S106S"+Replace this use of System.out by a logger.(´‡“Œøÿÿÿÿ8Ê÷Ü½Ø1
-L	java:S106a"+Replace this use of System.out by a logger.(óë¶×ıÿÿÿÿ8Ê÷Ü½Ø1
-M	java:S106…"+Replace this use of System.out by a logger.(Î ×¦ûÿÿÿÿ8Ì÷Ü½Ø1
+java:S2184²"@Cast one of the operands of this integer division to a "double".(ßÈ°‹ıÿÿÿÿ8èŞŞÌØ1
+c
+java:S10757"ARefactor your code to get this URI from a customizable parameter.( “œ¾ùÿÿÿÿ8‹ßŞÌØ1
+G	java:S106†"+Replace this use of System.out by a logger.(§¬Ï~8’ßŞÌØ1
+M	java:S106˜"+Replace this use of System.out by a logger.(´‡“Œøÿÿÿÿ8’ßŞÌØ1
+H	java:S106¥"+Replace this use of System.out by a logger.(ÎÓÃÙ8“ßŞÌØ1
+H	java:S106Å"+Replace this use of System.out by a logger.(”îäô8•ßŞÌØ1

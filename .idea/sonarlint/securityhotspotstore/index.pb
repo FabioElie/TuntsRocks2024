@@ -15,3 +15,9 @@ S
 #src/main/java/SheetsQuickstart.java,c\4\c4211fa1566a89317266724b63edbeacc870a9e6
 >
 Como Rodar.txt,b\c\bc4888467ebe0e4b5c94f78b96e2409f015d39f2
+H
+src/test/java/Tests.java,c\1\c173e52bd8a670e90135fe46f42f1df9295b7bf3
+W
+'src/test/java/SheetsQuickstartTest.java,2\8\28f214010c0b020f974c18751b9f1f3a5fd44c0b
+W
+'src/test/java/sheetsQuickstartTest.java,6\2\6241ee7a691854a3625647c899d5315724452ec0
