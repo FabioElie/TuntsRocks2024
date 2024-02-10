@@ -24,3 +24,7 @@ W
 :
 
 readme.txt,4\5\451685e9efac4a6dc1fee73ec53ffb6b2c4c38b5
+N
+script-dir/jquery-3.6.1.min.js,8\c\8c5e455e0f77d2dd0122545f99a92c59bd4a5a52
+M
+legal/ADDITIONAL_LICENSE_INFO,a\a\aa016ffb59bf9429332b0e98c0dd96897aed5275
